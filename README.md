@@ -13,6 +13,6 @@ My name is Molly Daniel and I'm passionate about software engineering! Here you 
 - Technologies Used: Unity, C#
 - Description: Recreated the classic game Minesweeper. This folder only contains the scripts I wrote, but I also hand-drew and imported each asset.
 
-## Minesweeper (Summer '24)
+## Tetris (Summer '24)
 - Technologies Used: Unity, C#
 - Description: Recreated the classic game Tetris. This folder only contains the scripts I wrote, but I also created my own visuals and color scheme. 
