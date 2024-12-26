@@ -1,6 +1,11 @@
 # Hello! 
 My name is Molly Daniel and I'm passionate about software engineering! Here you will find a collection of course and personal projects showcasing my skills and experience in various programming languages and technologies. 
 
+## Bike Share Service (Fall '24)
+https://github.com/sydweisberg/valetbike -> group project repository
+- Technologies Used: Ruby on Rails, CSS, HTML, Javascript
+- Description: Group project I contributed to in which we developed and branded a bike share website
+
 ## Object Oriented Programming Final Project (Fall '22)
 - Technologies Used: Java
 - Description: Developed a text based video game in which you play as a pigeon exploring a city and searching for worms
